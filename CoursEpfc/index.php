@@ -13,6 +13,7 @@ and open the template in the editor.
         <?php
         echo "hi github";
         echo "hi Jean-Michel";
+        echo "is pull suffisant?"
         ?>
     </body>
 </html>
